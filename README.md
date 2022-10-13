@@ -1,6 +1,7 @@
 # Ford GoBike-Share Data Exploration
-## by (Zainab Mohammed)
+## Zainab Mohammed
 
+This project is purposefully to show my Data Presentation skills via appropriate graphs and encodings.
 
 ## Dataset
 
